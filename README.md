@@ -1,6 +1,13 @@
-# lumino
-Lumino is a lightweight yet powerful Discord utility bot designed to make server management easier and more efficient. It comes with a reliable ticket system and a set of essential commands that every community server needs.
+# Lumino
+Lumino is a modular Discord utility bot built to handle tickets, moderation, and other essential server features. It’s designed for community servers that need a lightweight, easy-to-use bot with a solid feature set and clean code for future expansion.
 
-The ticket system is simple to use and easy to manage, allowing users to open support tickets while giving staff the tools to respond, close, or archive them quickly. Along with tickets, Lumino also includes a variety of moderation and utility features to help keep things running smoothly.
+## Features
+- Ticket system with category-based routing and transcripts
+- Utility commands
+- Role-based permissions for key actions
+- Starboard, tag system, media logs, and more
 
-Whether you're running a small community or managing a large server, Lumino is built to be flexible, easy to set up, and ready to support your workflow without getting in the way.
+## Setup Instructions
+## 1. Clone the Repository
+<pre> ```git clone https://github.com/yourusername/lumino.git
+cd lumino``` </pre> 
