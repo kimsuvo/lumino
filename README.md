@@ -9,5 +9,4 @@ Lumino is a modular Discord utility bot built to handle tickets, moderation, and
 
 ## Setup Instructions
 ## 1. Clone the Repository
-<pre> ```git clone https://github.com/yourusername/lumino.git
-cd lumino``` </pre> 
+<pre> ```bash git clone https://github.com/yourusername/lumino.git``` </pre> 
