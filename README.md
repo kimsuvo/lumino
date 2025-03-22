@@ -7,6 +7,8 @@ Lumino is a modular Discord utility bot built to handle tickets, moderation, and
 - Role-based permissions for key actions
 - Starboard, tag system, media logs, and more
 
+---
+
 ## Setup Instructions
 ## 1. Clone the Repository
 ```bash
